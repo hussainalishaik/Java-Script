@@ -1,0 +1,18 @@
+
+
+    .box
+    {
+        border-style: solid;
+        border-width: 5px;
+        border-color: aqua;
+
+        padding : 20px;
+
+        margin : 30px;
+background-image: url(https://cvcorp.instacks.co/uploads/logos/l0fo200z.png);
+        width: 70%;
+        background-color: black;
+        background-repeat: no-repeat;
+        color: blue;
+
+    }

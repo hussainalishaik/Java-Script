@@ -1,0 +1,21 @@
+.box{
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    padding:20px;
+
+    margin:30px;
+
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+
+    width: 30%;
+    background-color: white;
+    background-image: url(https://i.pinimg.com/474x/a3/33/31/a33331b09761870a82aa81bfc1c17f1c.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    color : black;
+
+}

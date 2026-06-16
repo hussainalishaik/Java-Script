@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin-top: 15%;
+    margin-left: 40%;
+    color: whitesmoke;
+}
+p{
+    
+    color: whitesmoke;
+}
+
+#two{
+    text-align: center;
+}
+#three{
+    margin-top: 400px;
+}
